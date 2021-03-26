@@ -1,0 +1,111 @@
+
+GuaiShou02.png
+size: 222,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: false
+  xy: 187, 145
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+Ljiao
+  rotate: false
+  xy: 181, 84
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 109, 36
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+Rjiao
+  rotate: false
+  xy: 181, 36
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 108
+  size: 111, 160
+  orig: 111, 160
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 115, 132
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 73, 35
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+s01
+  rotate: false
+  xy: 115, 67
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+s02
+  rotate: false
+  xy: 73, 2
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+s03
+  rotate: false
+  xy: 2, 16
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+s04
+  rotate: false
+  xy: 187, 132
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+s05
+  rotate: false
+  xy: 115, 204
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+s06
+  rotate: true
+  xy: 176, 13
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+s07
+  rotate: true
+  xy: 176, 13
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+s08
+  rotate: true
+  xy: 140, 8
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1

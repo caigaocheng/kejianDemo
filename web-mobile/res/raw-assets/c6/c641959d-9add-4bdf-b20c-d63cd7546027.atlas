@@ -1,0 +1,97 @@
+
+UUJuSang.png
+size: 566,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm
+  rotate: true
+  xy: 0, 1
+  size: 40, 117
+  orig: 40, 117
+  offset: 0, 0
+  index: -1
+Lerduo
+  rotate: false
+  xy: 186, 46
+  size: 131, 50
+  orig: 131, 50
+  offset: 0, 0
+  index: -1
+Lfoot
+  rotate: false
+  xy: 441, 106
+  size: 83, 20
+  orig: 83, 20
+  offset: 0, 0
+  index: -1
+Lleg
+  rotate: true
+  xy: 234, 0
+  size: 44, 101
+  orig: 44, 101
+  offset: 0, 0
+  index: -1
+Rarm
+  rotate: true
+  xy: 119, 1
+  size: 40, 113
+  orig: 40, 113
+  offset: 0, 0
+  index: -1
+Rerduo
+  rotate: false
+  xy: 441, 206
+  size: 125, 64
+  orig: 125, 64
+  offset: 0, 0
+  index: -1
+Rfoot
+  rotate: true
+  xy: 526, 43
+  size: 83, 30
+  orig: 83, 30
+  offset: 0, 0
+  index: -1
+Rleg
+  rotate: false
+  xy: 337, 0
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 388, 1
+  size: 133, 100
+  orig: 133, 100
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: true
+  xy: 289, 103
+  size: 167, 150
+  orig: 167, 150
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 43
+  size: 227, 184
+  orig: 227, 184
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 186, 98
+  size: 172, 101
+  orig: 172, 101
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 441, 128
+  size: 76, 120
+  orig: 76, 120
+  offset: 0, 0
+  index: -1

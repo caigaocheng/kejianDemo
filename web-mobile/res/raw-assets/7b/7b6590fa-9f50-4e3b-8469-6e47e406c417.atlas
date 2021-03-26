@@ -1,0 +1,34 @@
+
+huo.png
+size: 994,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo
+  rotate: false
+  xy: 267, 61
+  size: 313, 211
+  orig: 313, 211
+  offset: 0, 0
+  index: -1
+huoquan
+  rotate: false
+  xy: 0, 7
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+huxin
+  rotate: true
+  xy: 816, 10
+  size: 262, 178
+  orig: 262, 178
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 582, 0
+  size: 272, 232
+  orig: 272, 232
+  offset: 0, 0
+  index: -1

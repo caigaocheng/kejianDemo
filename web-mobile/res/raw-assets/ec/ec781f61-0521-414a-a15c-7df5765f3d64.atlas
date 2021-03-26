@@ -1,0 +1,69 @@
+
+FengMian.png
+size: 2271,1562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye01
+  rotate: false
+  xy: 1333, 78
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+eye02
+  rotate: false
+  xy: 2196, 136
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+f01
+  rotate: false
+  xy: 2, 408
+  size: 2048, 1152
+  orig: 2048, 1152
+  offset: 0, 0
+  index: -1
+g01
+  rotate: false
+  xy: 2005, 180
+  size: 189, 143
+  orig: 189, 143
+  offset: 0, 0
+  index: -1
+niujiao01
+  rotate: false
+  xy: 2196, 220
+  size: 73, 103
+  orig: 73, 103
+  offset: 0, 0
+  index: -1
+niujiao02
+  rotate: true
+  xy: 1333, 2
+  size: 74, 103
+  orig: 74, 103
+  offset: 0, 0
+  index: -1
+shnag
+  rotate: true
+  xy: 2052, 325
+  size: 1235, 216
+  orig: 1235, 216
+  offset: 0, 0
+  index: -1
+shoot
+  rotate: false
+  xy: 1333, 189
+  size: 670, 217
+  orig: 670, 217
+  offset: 0, 0
+  index: -1
+xia
+  rotate: false
+  xy: 2, 44
+  size: 1329, 362
+  orig: 1329, 362
+  offset: 0, 0
+  index: -1
